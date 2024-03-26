@@ -5,7 +5,7 @@ Software Architect | Technical Lead | Sever Engineer | Network Engineer | Java |
 *   🌍  I'm based in Vancouver BC, Canada
 
 ## Mission
-I am committed to making a meaningful impact by creatively solving challenging problems. I thrive on continuous learning and seek to inspire others through my work. I believe in fostering an environment of respect and inclusivity, where diverse viewpoints are valued and safety is paramount.
+I am committed to making a meaningful impact by creatively solving challenging problems. I thrive on continuous learning and seek to inspire others through my work. I believe in fostering an environment of respect and inclusivity, where diverse viewpoints are valued.
 
 I embrace flexibility in my approach, understanding the importance of both hard work and joyful engagement. I view mistakes as stepping stones for growth, constantly evolving and improving. My mission is not only personal success but also to contribute to a world where innovation, empathy, and collaboration drive positive change.
 
